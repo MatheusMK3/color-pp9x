@@ -56,4 +56,6 @@ There are two versions available:
 
 - **Neutral:** Pretty much a clean image without any grading applied to it. Great for post-processing work.
 
+- **Natural:** Improved version of Neutral with a saturation correction on darker areas of image, so they look natural.
+
 - **Standard:** Applies some basic color grading to the image, works better for batching a lot of images without time for grading.
