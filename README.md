@@ -50,4 +50,10 @@ A project by Matt Pratta with the intention of providing a flat profile with les
 
 ## DeLUT Usage
 
-You can use the DeLUT file to get a "standard" image for post-processing. It fixes most of contrast issues, while also correcting for most color shifts from the camera.
+You can use the DeLUT file to get a corrected image for post-processing. It fixes most of contrast issues, while also correcting for most color shifts from the camera.
+
+There are two versions available:
+
+- **Neutral:** Pretty much a clean image without any grading applied to it. Great for post-processing work.
+
+- **Standard:** Applies some basic color grading to the image, works better for batching a lot of images without time for grading.
